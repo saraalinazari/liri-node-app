@@ -1,9 +1,322 @@
+Command:my-tweets  
+ Time61-tweets text: Jay Shetty: We spend so much time supporting the people we don't even know, we should start supporting the people w… https://t.co/cDeJDj37K8  tweet time: Sun May 06 16:49:32 +0000 20182-tweets text: Another Trump lawyer bites the dust: https://t.co/YZnCgqgGy6
+Image may contain: 4 people, text  tweet time: Sun May 06 16:46:02 +0000 20183-tweets text: Jay Shetty : 
+Listen carefully  tweet time: Sun May 06 16:44:31 +0000 20184-tweets text: https://t.co/wqxZnHG5vj  tweet time: Sun May 06 16:43:51 +0000 20185-tweets text: "The research shows that for every dollar we invest in the education of somebody behind bars, we as a society get f… https://t.co/lsxbQGl42U  tweet time: Mon Apr 30 19:22:37 +0000 20186-tweets text: Tracy Morgan talks second chances and his show “The Last O.G.”
+►Extended interview: https://t.co/MS5CGTjdJS  tweet time: Sun Apr 29 03:35:00 +0000 20187-tweets text: It's over for Bill Cosby. Full video: https://t.co/REitZcPonN  tweet time: Sun Apr 29 03:33:53 +0000 2018Command:my-tweets  
+ Time61-tweets text: Jay Shetty: We spend so much time supporting the people we don't even know, we should start supporting the people w… https://t.co/cDeJDj37K8  tweet time: Sun May 06 16:49:32 +0000 20182-tweets text: Another Trump lawyer bites the dust: https://t.co/YZnCgqgGy6
+Image may contain: 4 people, text  tweet time: Sun May 06 16:46:02 +0000 20183-tweets text: Jay Shetty : 
+Listen carefully  tweet time: Sun May 06 16:44:31 +0000 20184-tweets text: https://t.co/wqxZnHG5vj  tweet time: Sun May 06 16:43:51 +0000 20185-tweets text: "The research shows that for every dollar we invest in the education of somebody behind bars, we as a society get f… https://t.co/lsxbQGl42U  tweet time: Mon Apr 30 19:22:37 +0000 20186-tweets text: Tracy Morgan talks second chances and his show “The Last O.G.”
+►Extended interview: https://t.co/MS5CGTjdJS  tweet time: Sun Apr 29 03:35:00 +0000 20187-tweets text: It's over for Bill Cosby. Full video: https://t.co/REitZcPonN  tweet time: Sun Apr 29 03:33:53 +0000 2018Command:post-my-tweets Hello Twitter3  
+ Time6Command:post-my-tweets Hello Twitter3  
+ Time6Command:post-my-tweets Hello Twitter4  
+ Time6Command:spotify-this-song I will always love you  
+ Time60-Artist Name: Whitney Houston  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "The Bodyguard - Original Soundtrack Album"1-Artist Name: Whitney Houston  Song: "How Will I Know"  URL: "https://p.scdn.co/mp3-preview/b5a479f24c17ddd7555893c03db8b0915a6ca10d?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You: The Best Of Whitney Houston"2-Artist Name: Dolly Parton  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/fbff57f3300f9303d4f5fbe876fcc15ed7ee564d?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "Jolene"3-Artist Name: Whitney Houston  Song: "I'm Your Baby Tonight"  URL: "https://p.scdn.co/mp3-preview/ee5f76ffd95d70a1d7089b1b55db61f88cc876c6?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You: The Best Of Whitney Houston"4-Artist Name: Whitney Houston  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/48281d57830174f3681b78837e85ffe5bb90a53b?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You: The Best Of Whitney Houston"5-Artist Name: Whitney Houston  Song: "I Will Always Love You - Film Version"  URL: "https://p.scdn.co/mp3-preview/683b088d380973cbee3b4034472210d621415a28?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Wish You Love: More From The Bodyguard"6-Artist Name: Leroy Sanchez  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/480458ce4753786420d61c59ffc558c9f562b2a3?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You"7-Artist Name: Whitney Houston  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/65858cbbe8dd9fc4d2726ca87ee93f06ca6072f7?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "Whitney The Greatest Hits"8-Artist Name: Whitney Houston  Song: "I Wanna Dance with Somebody (Who Loves Me)"  URL: "https://p.scdn.co/mp3-preview/8220716ca30d92d0eef7412a6f4d1d5d407ccd04?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You: The Best Of Whitney Houston"9-Artist Name: Troop  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/ba1e5cf39cd5becfc7dfe9c88a302e92d6644b24?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "Attitude"10-Artist Name: Natty Bong  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/745b39259bedc2f0360b40180f13fae52aebb584?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You"11-Artist Name: Richard Clayderman  Song: "I Will Always Love You - From \"The Bodyguard\""  URL: "https://p.scdn.co/mp3-preview/a1e9855ea342fe0ef42b8bfcd7f0d62e1b1bce99?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "Essential Love Songs"12-Artist Name: Whitney Houston  Song: "I Will Always Love You - Alternate Mix"  URL: "https://p.scdn.co/mp3-preview/4369193297bdf1715b851c79d6972a9f138b3cbf?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Wish You Love: More From The Bodyguard"13-Artist Name: Josh Weathers Band  Song: "I Will Always Love You - Single Edit"  URL: "https://p.scdn.co/mp3-preview/0a81687d4891b058d26ec3d9cc46bfd9e1271f38?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You"14-Artist Name: Chase Holfelder  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/ec66c838fdd86d63ec3988eccfffb8d79dd6ab56?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You"15-Artist Name: Glee Cast  Song: "I Will Always Love You (Glee Cast Version)"  URL: "https://p.scdn.co/mp3-preview/5583372b60b8b6e085c11d7029a57668b6bf3a23?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "I Will Always Love You (Glee Cast Version)"16-Artist Name: Whitney Houston  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/a46e45296744449c40fd783039484f75e79454df?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "90 Sweet 90s Hits!"17-Artist Name: Baby Lullaby  Song: "I Will Love You Always"  URL: "https://p.scdn.co/mp3-preview/25808463ffc2bf34bd656b2c40bd88ce3aa216bf?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "Baby Lullaby: 100% Natural Relaxing Guitar Songs and Nursery Melodies as Sleep Aid for Happy Newborn Babies and Kids"18-Artist Name: Me First and the Gimme Gimmes  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/bf2d88f216d712512c64efa15c92adc43a355f9e?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "Are We Not Men? We Are Diva!"19-Artist Name: Dolly Parton  Song: "I Will Always Love You"  URL: "https://p.scdn.co/mp3-preview/6a835318a4f7ff136614e87577eb26a5d75bb61f?cid=b529c3d5a2574ffc9e054b58970f21fb"  Album Name: "Piano Sleep"Command:spotify-this-song I will always love you  
+ Time60-Artist Name: Whitney Houston
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "The Bodyguard - Original Soundtrack Album"1-Artist Name: Whitney Houston
+  Song: "How Will I Know"
+  URL: "https://p.scdn.co/mp3-preview/b5a479f24c17ddd7555893c03db8b0915a6ca10d?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You: The Best Of Whitney Houston"2-Artist Name: Dolly Parton
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/fbff57f3300f9303d4f5fbe876fcc15ed7ee564d?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Jolene"3-Artist Name: Whitney Houston
+  Song: "I'm Your Baby Tonight"
+  URL: "https://p.scdn.co/mp3-preview/ee5f76ffd95d70a1d7089b1b55db61f88cc876c6?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You: The Best Of Whitney Houston"4-Artist Name: Whitney Houston
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/48281d57830174f3681b78837e85ffe5bb90a53b?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You: The Best Of Whitney Houston"5-Artist Name: Whitney Houston
+  Song: "I Will Always Love You - Film Version"
+  URL: "https://p.scdn.co/mp3-preview/683b088d380973cbee3b4034472210d621415a28?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Wish You Love: More From The Bodyguard"6-Artist Name: Leroy Sanchez
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/480458ce4753786420d61c59ffc558c9f562b2a3?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You"7-Artist Name: Whitney Houston
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/65858cbbe8dd9fc4d2726ca87ee93f06ca6072f7?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Whitney The Greatest Hits"8-Artist Name: Whitney Houston
+  Song: "I Wanna Dance with Somebody (Who Loves Me)"
+  URL: "https://p.scdn.co/mp3-preview/8220716ca30d92d0eef7412a6f4d1d5d407ccd04?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You: The Best Of Whitney Houston"9-Artist Name: Troop
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/ba1e5cf39cd5becfc7dfe9c88a302e92d6644b24?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Attitude"10-Artist Name: Natty Bong
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/745b39259bedc2f0360b40180f13fae52aebb584?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You"11-Artist Name: Richard Clayderman
+  Song: "I Will Always Love You - From \"The Bodyguard\""
+  URL: "https://p.scdn.co/mp3-preview/a1e9855ea342fe0ef42b8bfcd7f0d62e1b1bce99?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Essential Love Songs"12-Artist Name: Whitney Houston
+  Song: "I Will Always Love You - Alternate Mix"
+  URL: "https://p.scdn.co/mp3-preview/4369193297bdf1715b851c79d6972a9f138b3cbf?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Wish You Love: More From The Bodyguard"13-Artist Name: Josh Weathers Band
+  Song: "I Will Always Love You - Single Edit"
+  URL: "https://p.scdn.co/mp3-preview/0a81687d4891b058d26ec3d9cc46bfd9e1271f38?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You"14-Artist Name: Chase Holfelder
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/ec66c838fdd86d63ec3988eccfffb8d79dd6ab56?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You"15-Artist Name: Glee Cast
+  Song: "I Will Always Love You (Glee Cast Version)"
+  URL: "https://p.scdn.co/mp3-preview/5583372b60b8b6e085c11d7029a57668b6bf3a23?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Will Always Love You (Glee Cast Version)"16-Artist Name: Whitney Houston
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/a46e45296744449c40fd783039484f75e79454df?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "90 Sweet 90s Hits!"17-Artist Name: Baby Lullaby
+  Song: "I Will Love You Always"
+  URL: "https://p.scdn.co/mp3-preview/25808463ffc2bf34bd656b2c40bd88ce3aa216bf?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Baby Lullaby: 100% Natural Relaxing Guitar Songs and Nursery Melodies as Sleep Aid for Happy Newborn Babies and Kids"18-Artist Name: Me First and the Gimme Gimmes
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/bf2d88f216d712512c64efa15c92adc43a355f9e?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Are We Not Men? We Are Diva!"19-Artist Name: Dolly Parton
+  Song: "I Will Always Love You"
+  URL: "https://p.scdn.co/mp3-preview/6a835318a4f7ff136614e87577eb26a5d75bb61f?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Piano Sleep"
+===============================================================Command:movie-this shrek  
+ Time6Title: 
+===============================================================Command:movie-this shrek  
+ Time6Title: 
+===============================================================Command:movie-this shrek  
+ Time6Title: 
+===============================================================Command:movie-this shrek  
+ Time6Title: 
+===============================================================Command:movie-this shrek  
+ Time6Title: 
+===============================================================
+
 Command:movie-this shrek  
- Time30Title: Command:movie-this go with the wind  
- Time30not foundCommand:my-tweets  
- Time30***3****"The research shows that for every dollar we invest in the education of somebody behind bars, we as a society get f… https://t.co/lsxbQGl42U***3****Tracy Morgan talks second chances and his show “The Last O.G.”
-►Extended interview: https://t.co/MS5CGTjdJS***3****It's over for Bill Cosby. Full video: https://t.co/REitZcPonNCommand:spotify-this-song titanic  
- Time30*****01 spotify****Russ*****02 spotify****"Titanic"*****03 spotify****"https://p.scdn.co/mp3-preview/a19ff3563488e4e79129e42d256801bfe68c3940?cid=b529c3d5a2574ffc9e054b58970f21fb"*****04 spotify****"Titanic"*****11 spotify****Céline Dion*****12 spotify****"My Heart Will Go On - Love Theme from \"Titanic\""*****13 spotify****"https://p.scdn.co/mp3-preview/5fcdcfe7ef20abd006bba666b4a7dff01dd5ec21?cid=b529c3d5a2574ffc9e054b58970f21fb"*****14 spotify****"Let's Talk About Love"*****21 spotify****Céline Dion*****22 spotify****"My Heart Will Go On - Love Theme from \"Titanic\""*****23 spotify****"https://p.scdn.co/mp3-preview/cbf50c7a74d4450963c1d1141f3169447ec2dd0d?cid=b529c3d5a2574ffc9e054b58970f21fb"*****24 spotify****"All The Way... A Decade Of Song"*****31 spotify****Céline Dion*****32 spotify****"My Heart Will Go On - Love Theme from \"Titanic\""*****33 spotify****"https://p.scdn.co/mp3-preview/40eb3b1ececc4799a7d1063cca4c70f303c50bab?cid=b529c3d5a2574ffc9e054b58970f21fb"*****34 spotify****"The Essential Celine Dion"*****41 spotify****Caleb and Kelsey*****42 spotify****"My Heart Will Go on (Titanic Theme Song)"*****43 spotify****"https://p.scdn.co/mp3-preview/1b29408e6bbff8af01acca51731bbb430e2b359b?cid=b529c3d5a2574ffc9e054b58970f21fb"*****44 spotify****"The Songs We Sang"*****51 spotify****Robin Schulz*****52 spotify****"Titanic"*****53 spotify****"https://p.scdn.co/mp3-preview/0837f84933658fc038092d0661acfd5f386caf0f?cid=b529c3d5a2574ffc9e054b58970f21fb"*****54 spotify****"SUGAR"*****61 spotify****Baby Lullaby*****62 spotify****"Titanic"*****63 spotify****"https://p.scdn.co/mp3-preview/158caf68b86bc5bb90522fc5c495013e5c8a651b?cid=b529c3d5a2574ffc9e054b58970f21fb"*****64 spotify****"Movie Piano Lullabies Of Titanic, Twilight, Harry Potter, Braveheart, Forrest Gump And More..."*****71 spotify****James Horner*****72 spotify****"My Heart Will Go On - Love Theme from \"Titanic\""*****73 spotify****"https://p.scdn.co/mp3-preview/b182dbefef0b59e9bb38176a5016ad400c988a0b?cid=b529c3d5a2574ffc9e054b58970f21fb"*****74 spotify****"Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition"*****81 spotify****Céline Dion*****82 spotify****"My Heart Will Go On - Love Theme from \"Titanic\""*****83 spotify****"https://p.scdn.co/mp3-preview/b98064ff7876dcefd0eca2fe5a5a24351cc27d5d?cid=b529c3d5a2574ffc9e054b58970f21fb"*****84 spotify****"My Love Essential Collection"*****91 spotify****Josh Metzler*****92 spotify****"Titanic"*****93 spotify****"https://p.scdn.co/mp3-preview/3b3760720333280c35a1da9cee8d9ed13eeb1662?cid=b529c3d5a2574ffc9e054b58970f21fb"*****94 spotify****"Titanic"*****101 spotify****Bill Burr*****102 spotify****"Titanic"*****103 spotify****"https://p.scdn.co/mp3-preview/80c3724880c8427893a3a2e78f989f187d1733e2?cid=b529c3d5a2574ffc9e054b58970f21fb"*****104 spotify****"Emotionally Unavailable (Expanded Edition)"*****111 spotify****James Horner*****112 spotify****"Titanic Suite"*****113 spotify****"https://p.scdn.co/mp3-preview/e82b1f29eb6ee9dd43473a523a648d627bcd738d?cid=b529c3d5a2574ffc9e054b58970f21fb"*****114 spotify****"Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition"*****121 spotify****Steve Aoki*****122 spotify****"Titanic"*****123 spotify****"https://p.scdn.co/mp3-preview/aa0fab17390edcaaf8e9210ba1234d055191af9a?cid=b529c3d5a2574ffc9e054b58970f21fb"*****124 spotify****"Neon Future Odyssey"*****131 spotify****Baby Lullaby*****132 spotify****"Somewhere Over The Rainbow"*****133 spotify****"https://p.scdn.co/mp3-preview/b6e2fac6449bac0cfe3b318fc3acf647d9c2918b?cid=b529c3d5a2574ffc9e054b58970f21fb"*****134 spotify****"Movie Piano Lullabies Of Titanic, Twilight, Harry Potter, Braveheart, Forrest Gump And More..."*****141 spotify****The Chamber Orchestra Of London*****142 spotify****"Titanic"*****143 spotify****null*****144 spotify****"Downton Abbey"*****151 spotify****Titanic Orchestra*****152 spotify****"Nearer My God to Thee"*****153 spotify****"https://p.scdn.co/mp3-preview/d028bcd4a6a8be6062fd99c49f2e5fd16e6d98a7?cid=b529c3d5a2574ffc9e054b58970f21fb"*****154 spotify****"Back to Titanic"*****161 spotify****Kenny G*****162 spotify****"My Heart Will Go On (Love Theme from \"Titanic\")"*****163 spotify****"https://p.scdn.co/mp3-preview/b33b4775168df932af2f19aa6234e92413dd89cc?cid=b529c3d5a2574ffc9e054b58970f21fb"*****164 spotify****"The Essential Kenny G"*****171 spotify****James Horner*****172 spotify****"My Heart Will Go On - Love Theme from \"Titanic\""*****173 spotify****"https://p.scdn.co/mp3-preview/b182dbefef0b59e9bb38176a5016ad400c988a0b?cid=b529c3d5a2574ffc9e054b58970f21fb"*****174 spotify****"Titanic: Original Motion Picture Soundtrack - Anniversary Edition"*****181 spotify****Titanic Orchestra*****182 spotify****"Irish Party In Third Class"*****183 spotify****"https://p.scdn.co/mp3-preview/95a42790b7709d0cdb50df51c3abadf29e1872d7?cid=b529c3d5a2574ffc9e054b58970f21fb"*****184 spotify****"Back to Titanic"*****191 spotify****Baby Lullaby*****192 spotify****"Unchained Melody"*****193 spotify****"https://p.scdn.co/mp3-preview/30cdbd6c7894d2c06fe5c75e7f2ebe05456e4fa3?cid=b529c3d5a2574ffc9e054b58970f21fb"*****194 spotify****"Movie Piano Lullabies Of Titanic, Twilight, Harry Potter, Braveheart, Forrest Gump And More..."Reading from Random.txt: 
- Time30Command:spotify-this-song "I Want it That Way" 
- Time30*****01 spotify****Backstreet Boys*****02 spotify****"I Want It That Way"*****03 spotify****"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b529c3d5a2574ffc9e054b58970f21fb"*****04 spotify****"The Hits--Chapter One"*****11 spotify****Backstreet Boys*****12 spotify****"I Want It That Way"*****13 spotify****"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b529c3d5a2574ffc9e054b58970f21fb"*****14 spotify****"Millennium"*****21 spotify****Backstreet Boys*****22 spotify****"I Want It That Way"*****23 spotify****"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=b529c3d5a2574ffc9e054b58970f21fb"*****24 spotify****"The Essential Backstreet Boys"*****31 spotify****Anthem Lights*****32 spotify****"I Want It That Way"*****33 spotify****"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b529c3d5a2574ffc9e054b58970f21fb"*****34 spotify****"Covers Part IV"*****41 spotify****Glee Cast*****42 spotify****"Bye Bye Bye / I Want It That Way (Glee Cast Version)"*****43 spotify****"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=b529c3d5a2574ffc9e054b58970f21fb"*****44 spotify****"Bye Bye Bye / I Want It That Way (Glee Cast Version)"*****51 spotify****Manuel Costa*****52 spotify****"I Want It That Way"*****53 spotify****"https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b529c3d5a2574ffc9e054b58970f21fb"*****54 spotify****"I Want It That Way"*****61 spotify****Backstreet Boys*****62 spotify****"I Want It That Way"*****63 spotify****"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b529c3d5a2574ffc9e054b58970f21fb"*****64 spotify****"90 Sweet 90s Hits!"*****71 spotify****"Weird Al" Yankovic*****72 spotify****"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"*****73 spotify****"https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b529c3d5a2574ffc9e054b58970f21fb"*****74 spotify****"Poodle Hat"*****81 spotify****Dynamite Boy*****82 spotify****"I Want It That Way"*****83 spotify****null*****84 spotify****"Punk Goes Pop"*****91 spotify****Boyce Avenue*****92 spotify****"I Want It That Way"*****93 spotify****"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=b529c3d5a2574ffc9e054b58970f21fb"*****94 spotify****"New Acoustic Sessions, Vol. 3"*****101 spotify****Kyle Olthoff*****102 spotify****"I Want It That Way"*****103 spotify****"https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=b529c3d5a2574ffc9e054b58970f21fb"*****104 spotify****"I Want It That Way"*****111 spotify****Steel Panther*****112 spotify****"I Want It That Way"*****113 spotify****null*****114 spotify****"I Want It That Way"*****121 spotify****Landon Austin & Julia Sheer*****122 spotify****"I Want It That Way"*****123 spotify****"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=b529c3d5a2574ffc9e054b58970f21fb"*****124 spotify****"I Want It That Way"*****131 spotify****"Weird Al" Yankovic*****132 spotify****"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"*****133 spotify****"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=b529c3d5a2574ffc9e054b58970f21fb"*****134 spotify****"The Essential \"Weird Al\" Yankovic"*****141 spotify****Backstreet Boys*****142 spotify****"I Want It That Way"*****143 spotify****"https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=b529c3d5a2574ffc9e054b58970f21fb"*****144 spotify****"NOW That's What I Call 90s Pop"*****151 spotify****Backstreet Boys*****152 spotify****"I Want It That Way"*****153 spotify****"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=b529c3d5a2574ffc9e054b58970f21fb"*****154 spotify****"NKOTBSB"*****161 spotify****Scott Bradlee's Postmodern Jukebox*****162 spotify****"I Want It That Way"*****163 spotify****"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=b529c3d5a2574ffc9e054b58970f21fb"*****164 spotify****"Selfies on Kodachrome"*****171 spotify****Jason Chen*****172 spotify****"I Want It That Way"*****173 spotify****"https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=b529c3d5a2574ffc9e054b58970f21fb"*****174 spotify****"I Want It That Way"*****181 spotify****Scary Pockets*****182 spotify****"I Want It That Way"*****183 spotify****"https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=b529c3d5a2574ffc9e054b58970f21fb"*****184 spotify****"Nu Funk"*****191 spotify****Scott Bradlee's Postmodern Jukebox*****192 spotify****"I Want It That Way"*****193 spotify****"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=b529c3d5a2574ffc9e054b58970f21fb"*****194 spotify****"PMJ Is For Lovers: The Love Song Collection"Command:movie-this Mr. Nobody 
- Time30Title: 
+ Time6Title: 
+===============================================================
+
+Command:movie-this shrek  
+ Time6Title: 
+===============================================================
+
+Command:movie-this shrek  
+ Time6Title: 
+===============================================================
+
+Command:movie-this black  
+ Time6
+Title: 
+===============================================================
+
+Command:movie-this black  
+ Time6
+Title: 
+===============================================================
+
+Command:movie-this black  
+ Time6
+Title: 
+===============================================================
+
+Command:movie-this black  
+ Time6
+Title: 
+===============================================================
+
+Command: movie-this black  
+ Time5/6/2018
+Title: 
+===============================================================
+
+Command: movie-this black  
+ Time5/6/2018
+Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: 
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: Black
+ Year: 2005
+ Ratings: Internet Movie Database/8.2/10
+Ratings: Rotten Tomatoes/67%
+ Country: India
+Language: Hindi, English
+Plot: Based in Simla, the McNallys are an Anglo-Indian family consisting of Paul and his wife, Catherine. Both are full of joy when Catherine gives birth to a baby girl, Michelle, but their joy is short-lived when they are told that Michellle cannot see nor hear. Both attempt to bring up Michelle in their own protective way, as a result Michelle is not exposed to the real world, and becomes increasingly violent and volatile. Things only get worse when Catherine gives birth to Sara, and Paul considers admitting Michelle in an asylum. It is here that Debraj Sahai enters their lives. Through his eager involvement, Michelle blossoms, grows, gives up her violence, even gets admitted in school with normal children. The years pass by, Michelle does not succeed in getting her graduation, and it is time for Debraj to bid adieu as he is having his own health problems. 12 years later, at the age of 40, Michelle does succeed in graduating in Arts, and it is shortly thereafter she will be re-united with her teacher. No longer the same alcoholic, eccentric, - but a bent older male, who cannot even remember speech, leave alone what he taught. Watch what happens when Michelle attempts to re-enter his 'blank' life.
+Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: Black
+ Year: 2005
+ Ratings: Internet Movie Database  8.2/10
+Ratings: Rotten Tomatoes  67%
+ Country: India
+Language: Hindi, English
+Plot: Based in Simla, the McNallys are an Anglo-Indian family consisting of Paul and his wife, Catherine. Both are full of joy when Catherine gives birth to a baby girl, Michelle, but their joy is short-lived when they are told that Michellle cannot see nor hear. Both attempt to bring up Michelle in their own protective way, as a result Michelle is not exposed to the real world, and becomes increasingly violent and volatile. Things only get worse when Catherine gives birth to Sara, and Paul considers admitting Michelle in an asylum. It is here that Debraj Sahai enters their lives. Through his eager involvement, Michelle blossoms, grows, gives up her violence, even gets admitted in school with normal children. The years pass by, Michelle does not succeed in getting her graduation, and it is time for Debraj to bid adieu as he is having his own health problems. 12 years later, at the age of 40, Michelle does succeed in graduating in Arts, and it is shortly thereafter she will be re-united with her teacher. No longer the same alcoholic, eccentric, - but a bent older male, who cannot even remember speech, leave alone what he taught. Watch what happens when Michelle attempts to re-enter his 'blank' life.
+Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: Black
+ Year: 2005
+ Ratings: Internet Movie Database  8.2/10
+Ratings: Rotten Tomatoes  67%
+ Country: India
+ Language: Hindi, English
+ Plot: Based in Simla, the McNallys are an Anglo-Indian family consisting of Paul and his wife, Catherine. Both are full of joy when Catherine gives birth to a baby girl, Michelle, but their joy is short-lived when they are told that Michellle cannot see nor hear. Both attempt to bring up Michelle in their own protective way, as a result Michelle is not exposed to the real world, and becomes increasingly violent and volatile. Things only get worse when Catherine gives birth to Sara, and Paul considers admitting Michelle in an asylum. It is here that Debraj Sahai enters their lives. Through his eager involvement, Michelle blossoms, grows, gives up her violence, even gets admitted in school with normal children. The years pass by, Michelle does not succeed in getting her graduation, and it is time for Debraj to bid adieu as he is having his own health problems. 12 years later, at the age of 40, Michelle does succeed in graduating in Arts, and it is shortly thereafter she will be re-united with her teacher. No longer the same alcoholic, eccentric, - but a bent older male, who cannot even remember speech, leave alone what he taught. Watch what happens when Michelle attempts to re-enter his 'blank' life.
+ Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: Black
+ Year: 2005
+ Ratings: Internet Movie Database  8.2/10
+Ratings: Rotten Tomatoes  67%
+ Country: India
+ Language: Hindi, English
+ Plot: Based in Simla, the McNallys are an Anglo-Indian family consisting of Paul and his wife, Catherine. Both are full of joy when Catherine gives birth to a baby girl, Michelle, but their joy is short-lived when they are told that Michellle cannot see nor hear. Both attempt to bring up Michelle in their own protective way, as a result Michelle is not exposed to the real world, and becomes increasingly violent and volatile. Things only get worse when Catherine gives birth to Sara, and Paul considers admitting Michelle in an asylum. It is here that Debraj Sahai enters their lives. Through his eager involvement, Michelle blossoms, grows, gives up her violence, even gets admitted in school with normal children. The years pass by, Michelle does not succeed in getting her graduation, and it is time for Debraj to bid adieu as he is having his own health problems. 12 years later, at the age of 40, Michelle does succeed in graduating in Arts, and it is shortly thereafter she will be re-united with her teacher. No longer the same alcoholic, eccentric, - but a bent older male, who cannot even remember speech, leave alone what he taught. Watch what happens when Michelle attempts to re-enter his 'blank' life.
+ Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: Black
+ Year: 2005
+  Ratings: Internet Movie Database  8.2/10
+ Ratings: Rotten Tomatoes  67%
+ Country: India
+ Language: Hindi, English
+ Plot: Based in Simla, the McNallys are an Anglo-Indian family consisting of Paul and his wife, Catherine. Both are full of joy when Catherine gives birth to a baby girl, Michelle, but their joy is short-lived when they are told that Michellle cannot see nor hear. Both attempt to bring up Michelle in their own protective way, as a result Michelle is not exposed to the real world, and becomes increasingly violent and volatile. Things only get worse when Catherine gives birth to Sara, and Paul considers admitting Michelle in an asylum. It is here that Debraj Sahai enters their lives. Through his eager involvement, Michelle blossoms, grows, gives up her violence, even gets admitted in school with normal children. The years pass by, Michelle does not succeed in getting her graduation, and it is time for Debraj to bid adieu as he is having his own health problems. 12 years later, at the age of 40, Michelle does succeed in graduating in Arts, and it is shortly thereafter she will be re-united with her teacher. No longer the same alcoholic, eccentric, - but a bent older male, who cannot even remember speech, leave alone what he taught. Watch what happens when Michelle attempts to re-enter his 'blank' life.
+ Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+===============================================================
+
+Command: movie-this black  
+ Time: 5/6/2018
+ Title: Black
+ Year: 2005
+ Ratings: Internet Movie Database  8.2/10
+ Ratings: Rotten Tomatoes  67%
+ Country: India
+ Language: Hindi, English
+ Plot: Based in Simla, the McNallys are an Anglo-Indian family consisting of Paul and his wife, Catherine. Both are full of joy when Catherine gives birth to a baby girl, Michelle, but their joy is short-lived when they are told that Michellle cannot see nor hear. Both attempt to bring up Michelle in their own protective way, as a result Michelle is not exposed to the real world, and becomes increasingly violent and volatile. Things only get worse when Catherine gives birth to Sara, and Paul considers admitting Michelle in an asylum. It is here that Debraj Sahai enters their lives. Through his eager involvement, Michelle blossoms, grows, gives up her violence, even gets admitted in school with normal children. The years pass by, Michelle does not succeed in getting her graduation, and it is time for Debraj to bid adieu as he is having his own health problems. 12 years later, at the age of 40, Michelle does succeed in graduating in Arts, and it is shortly thereafter she will be re-united with her teacher. No longer the same alcoholic, eccentric, - but a bent older male, who cannot even remember speech, leave alone what he taught. Watch what happens when Michelle attempts to re-enter his 'blank' life.
+ Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+===============================================================
+Reading from Random.txt: ,  Time: 5/6/2018Command:spotify-this-song "I Want it That Way" ,  Time: 5/6/20180-Artist Name: Backstreet Boys
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "The Hits--Chapter One\n"1-Artist Name: Backstreet Boys
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Millennium\n"2-Artist Name: Backstreet Boys
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "The Essential Backstreet Boys\n"3-Artist Name: Anthem Lights
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Covers Part IV\n"4-Artist Name: Glee Cast
+  Song: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+  URL: "https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Bye Bye Bye / I Want It That Way (Glee Cast Version)\n"5-Artist Name: Manuel Costa
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Want It That Way\n"6-Artist Name: Backstreet Boys
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "90 Sweet 90s Hits!\n"7-Artist Name: "Weird Al" Yankovic
+  Song: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
+  URL: "https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Poodle Hat\n"8-Artist Name: Dynamite Boy
+  Song: "I Want It That Way"
+  URL: null
+  Album Name: "Punk Goes Pop\n"9-Artist Name: Boyce Avenue
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "New Acoustic Sessions, Vol. 3\n"10-Artist Name: Kyle Olthoff
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Want It That Way\n"11-Artist Name: Steel Panther
+  Song: "I Want It That Way"
+  URL: null
+  Album Name: "I Want It That Way\n"12-Artist Name: Landon Austin & Julia Sheer
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Want It That Way\n"13-Artist Name: "Weird Al" Yankovic
+  Song: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
+  URL: "https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "The Essential \"Weird Al\" Yankovic\n"14-Artist Name: Backstreet Boys
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "NOW That's What I Call 90s Pop\n"15-Artist Name: Backstreet Boys
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "NKOTBSB\n"16-Artist Name: Scott Bradlee's Postmodern Jukebox
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Selfies on Kodachrome\n"17-Artist Name: Jason Chen
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "I Want It That Way\n"18-Artist Name: Scary Pockets
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "Nu Funk\n"19-Artist Name: Scott Bradlee's Postmodern Jukebox
+  Song: "I Want It That Way"
+  URL: "https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=b529c3d5a2574ffc9e054b58970f21fb"
+  Album Name: "PMJ Is For Lovers: The Love Song Collection\n"
+===============================================================
