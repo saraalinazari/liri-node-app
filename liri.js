@@ -6,10 +6,7 @@ var spotify = new Spotify(keys.spotify);
 var client = new Twitter(keys.twitter);
 var request = require('request');
 var fs = require('fs');
-//console.log("spotify"+JSON.stringify( spotify));
-//console.log("twitter" +JSON.stringify(client ));
 var currenttime=new Date();
-//var today = new Date();
 var dd = currenttime.getDate();
 var mm = currenttime.getMonth()+1; //January is 0!
 var yyyy = currenttime.getFullYear();
@@ -117,9 +114,7 @@ function OmdbCall(){
         title: searchItem
     }//JSON.parse(body)
     request('http://www.omdbapi.com/?i=tt3896198&apikey=adfa6881&plot=full&t='+params.title, function (error, response, body) {
-    //console.log('error:', error); // Print the error if one occurred
-    //console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
-   // console.log('statusCode:',(JSON.parse(body).Response));
+   
     str ="\nCommand: "+whattodo+" "+ searchItem+" "+"\n Time: "+currenttime;
     if(JSON.parse(body).Response==="False"){
         console.log("not found");

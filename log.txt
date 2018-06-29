@@ -320,3 +320,8 @@ Reading from Random.txt: ,  Time: 5/6/2018Command:spotify-this-song "I Want it T
   URL: "https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=b529c3d5a2574ffc9e054b58970f21fb"
   Album Name: "PMJ Is For Lovers: The Love Song Collection\n"
 ===============================================================
+Command:my-tweets  ,  Time: 6/29/20181-tweets text: Hello Twitter4  tweet time: Sun May 06 17:03:51 +0000 20182-tweets text: Hello Twitter3  tweet time: Sun May 06 17:00:17 +0000 20183-tweets text: Hello Twitter  tweet time: Sun May 06 16:58:56 +0000 20184-tweets text: Jay Shetty: We spend so much time supporting the people we don't even know, we should start supporting the people w… https://t.co/cDeJDj37K8  tweet time: Sun May 06 16:49:32 +0000 20185-tweets text: Another Trump lawyer bites the dust: https://t.co/YZnCgqgGy6
+Image may contain: 4 people, text  tweet time: Sun May 06 16:46:02 +0000 20186-tweets text: Jay Shetty : 
+Listen carefully  tweet time: Sun May 06 16:44:31 +0000 20187-tweets text: https://t.co/wqxZnHG5vj  tweet time: Sun May 06 16:43:51 +0000 20188-tweets text: "The research shows that for every dollar we invest in the education of somebody behind bars, we as a society get f… https://t.co/lsxbQGl42U  tweet time: Mon Apr 30 19:22:37 +0000 20189-tweets text: Tracy Morgan talks second chances and his show “The Last O.G.”
+►Extended interview: https://t.co/MS5CGTjdJS  tweet time: Sun Apr 29 03:35:00 +0000 201810-tweets text: It's over for Bill Cosby. Full video: https://t.co/REitZcPonN  tweet time: Sun Apr 29 03:33:53 +0000 2018
+===============================================================
