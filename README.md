@@ -2,13 +2,13 @@
 
 ## Requirement
 - Supposed to create an application called LIRI which is like iPhone's SIRI. LIRI is a _Language_ Interpretation and Recognition Interface, while SIRI is a Speech Interpretation and Recognition Interface.
-- LIRI  LIRI will be a command line node app that takes in parameters and gives you back data.
-
-##Prerequisites
-- Download Chrome or Internet Explorer or Mozilla for your specific operating system.
-- Check if you have Node installed by typing  'node -v' in your terminal. If it returns anything related to version then you have it installed.
+- LIRI will be a command line node app that takes in parameters and gives you back data.
 - LIRI displays your latest tweets.
 - Send requests to the Twitter, Spotify, and OMDB APIs.
+
+## Prerequisites
+- Download Chrome or Internet Explorer or Mozilla for your specific operating system.
+- Check if you have Node installed by typing  'node -v' in your terminal. If it returns anything related to version then you have it installed.
 
 ## Instructions
 - change current directory where you want to clone my repo in to.
